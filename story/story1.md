@@ -8,3 +8,11 @@ marshal art
 
 - man1
 - man2
+
+## ø¿¥√¿« ±‚¥…
+
+~~~js
+function today() {
+	return new Date();
+}
+~~~
