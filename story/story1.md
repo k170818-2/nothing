@@ -8,3 +8,7 @@ marshal art
 
 - man1
 - man2
+
+## 오늘의 기능
+
+- function today()
