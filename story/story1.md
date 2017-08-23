@@ -11,4 +11,8 @@ marshal art
 
 ## ø¿¥√¿« ±‚¥…
 
-- function today()
+~~~js
+function today() {
+	return new Date();
+}
+~~~
